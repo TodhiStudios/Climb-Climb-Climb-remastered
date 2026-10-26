@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1793024768|94209888333';
+const CACHE_VERSION = '1793025379|94820252323';
 /** @type {string} */
 const CACHE_PREFIX = 'Climb Climb Clim-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
